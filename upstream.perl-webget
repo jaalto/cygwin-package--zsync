@@ -1,0 +1,2 @@
+tag1: zsync
+  http://packages.debian.org/unstable/zsync pregexp:orig.tar.gz file:zsync_0.5.orig.tar.gz new: x:
